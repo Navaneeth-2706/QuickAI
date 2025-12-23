@@ -1,7 +1,8 @@
 #AI SaaS Platform (PERN Stack)
+
 **Overview**
-A full-stack AI-powered SaaS application built using the PERN stack (PostgreSQL, Express.js, React, Node.js).
-The platform provides AI-driven text and image features, focusing on backend integration, API design, and system architecture.
+* A full-stack AI-powered SaaS application built using the PERN stack (PostgreSQL, Express.js, React, Node.js).
+* The platform provides AI-driven text and image features, focusing on backend integration, API design, and system architecture.
 
 **Key Features**
 * Resume and content generation using AI
